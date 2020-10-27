@@ -17,3 +17,4 @@ how to iterate over dictionaries, for loop, if-else conditions and functions in 
 ### How does the game work?
 
 The board is numbered like the keyboard’s number pad. And thus, a player can make their move in the game board by entering the number from the keyboard number pad.
+Make sure your Num Lock is off :)
